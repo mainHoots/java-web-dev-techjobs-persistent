@@ -1,4 +1,8 @@
 ## Part 1: Test it with SQL
+id INT
+employer VARCHAR(250)
+name VARCHAR(250)
+skills VARCHAR(250)
 
 ## Part 2: Test it with SQL
 
