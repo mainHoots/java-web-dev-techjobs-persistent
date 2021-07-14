@@ -5,6 +5,7 @@ name VARCHAR(250)
 skills VARCHAR(250)
 
 ## Part 2: Test it with SQL
+SELECT name FROM employer WHERE employer.location = "St. Louis City";
 
 ## Part 3: Test it with SQL
 
