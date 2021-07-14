@@ -8,5 +8,6 @@ skills VARCHAR(250)
 SELECT name FROM employer WHERE employer.location = "St. Louis City";
 
 ## Part 3: Test it with SQL
+DROP TABLE job;
 
 ## Part 4: Test it with SQL
